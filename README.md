@@ -1,0 +1,1 @@
+# friendly-solitary-numbers-script
